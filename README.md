@@ -47,5 +47,5 @@ The project is fully deployed — backend on **Railway** and frontend on **Netli
 - Netlify (Frontend)
 
 ---
-## Frontend for this project https://github.com/swarajjogi/student-management-frontend
+## You can find more info at https://github.com/swarajjogi/student-management-frontend
 ---
