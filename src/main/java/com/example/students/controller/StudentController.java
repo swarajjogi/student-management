@@ -8,7 +8,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/students")
-@CrossOrigin(origins = {"http://localhost:3000", "http://127.0.0.1:3000"}) // ← ADD BOTH// allow React frontend
+@CrossOrigin(origins = {"*"}) // ← ADD BOTH// allow React frontend
 public class StudentController {
     private final StudentService studentService;
 
