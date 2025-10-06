@@ -8,8 +8,8 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/students")
-@CrossOrigin(origins = {"*"}) // ← ADD BOTH// allow React frontend
 public class StudentController {
+
     private final StudentService studentService;
 
     public StudentController(StudentService studentService) {
@@ -33,7 +33,6 @@ public class StudentController {
     public Student updateStudent(@PathVariable Long id, @RequestBody Student student) {
         return studentService.updateStudent(id, student);
     }
-
 
     // 4. Delete a student
     @DeleteMapping("/{id}")
