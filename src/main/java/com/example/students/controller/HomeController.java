@@ -10,4 +10,8 @@ public class HomeController {
     public String home() {
         return "Student Management Backend is running!";
     }
+    @GetMapping("/health")
+    public String health() {
+        return "OK";
+    }
 }
