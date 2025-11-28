@@ -4,7 +4,7 @@ A full-stack **Student Management System** built using **Spring Boot (backend)**
 This application lets users **add, edit, view, and delete student records** through a simple, responsive web interface.
 
 The project is fully deployed — backend on **Railway** and frontend on **Netlify**.
-
+help wanted
 ---
 
 ## 🚀 Live Demo
