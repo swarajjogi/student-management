@@ -10,7 +10,6 @@ help wanted
 ## 🚀 Live Demo
 
 🔹 **Frontend:** [https://student-management-fronten.netlify.app](https://student-management-fronten.netlify.app)  
-🔹 **Backend:** [https://student-management-production-4c9e.up.railway.app](https://student-management-production-4c9e.up.railway.app)
 
 ---
 
